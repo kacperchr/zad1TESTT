@@ -1,0 +1,8 @@
+﻿{
+  "EmailConfiguration": {
+    "SmtpServer": "YourSmtpServer",
+    "SmtpPort": 465,
+    "SmtpUsername": "Your@email.adrresss",
+    "SmtpPassword": "YourPassword"
+  }
+}
